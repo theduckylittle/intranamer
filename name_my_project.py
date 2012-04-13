@@ -42,7 +42,7 @@ if(__name__ == "__main__"):
 	t_v = time.localtime()
 	h = {
 		'month' : '%02d' % t_v.tm_mon,
-		'year' :  str(t_v.tm_year)[2:],
+		'year' :  t_v.tm_year % 100,
 		'day' : '%02d' % t_v.tm_mday
 	}
 	
