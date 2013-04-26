@@ -2,7 +2,7 @@ IntraNamer
 ==========
 
 This project does not have significance.  Its sole intention is to generate a list of names
-from IMDb.  It uses today's date a hueristic for pulling down the appropriate actor(ess) and
+from IMDb.  It uses today's date a heuristic for pulling down the appropriate actor(ess) and
 movie names.
 
 Why?
@@ -15,13 +15,13 @@ with a name for a project so we decided to let fate, numerology, and IMDb decide
 Who can use this?
 -----------------
 
-Anyone who needs a psuedo-random name.  They must also have a Python interpreter.  And a version
+Anyone who needs a pseudo-random name.  They must also have a Python interpreter.  And a version
 of python with urllib2.
 
-Prerequists
------------
+Prerequisites
+-------------
 
-If you're really concerned about this then you really haven't looked at hte code.
+If you're really concerned about this then you really haven't looked at the code.
 
 How-to Run
 ----------

@@ -49,7 +49,7 @@ if(__name__ == "__main__"):
 
 	imdb_urls = [
 		'http://www.imdb.com/name/nm0%(month)s%(day)s%(year)s/',
-		'http://www.imdb.com/name/nm0%(day)s%(month)s%(year)s/',
+		'http://www.imdb.com/name/nm0%(day)s%(year)s%(month)s/',
 		'http://www.imdb.com/title/tt0%(month)s%(day)s%(year)s/',
 		'http://www.imdb.com/title/tt0%(day)s%(month)s%(year)s/',
 		'http://www.imdb.com/title/tt1%(month)s%(day)s%(year)s/',
